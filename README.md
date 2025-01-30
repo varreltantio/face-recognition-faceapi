@@ -39,4 +39,5 @@ This project uses face recognition with the `face-api.js` library to identify fa
    node server.js
 
 4. **Open the project in a browser:**
-Open the index.html file in your browser or navigate to http://localhost:3000 (if the server is running).
+
+    Open the index.html file in your browser or navigate to http://localhost:3000 (if the server is running).
