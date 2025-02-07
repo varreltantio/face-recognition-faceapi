@@ -1,4 +1,4 @@
-# Face Recognition Project
+# Face Recognition face-api.js
 
 This project uses face recognition with the `face-api.js` library to identify faces from images dynamically loaded from the server. The goal is to train a face recognition model with labeled images, and then match faces from a webcam stream.
 
@@ -25,8 +25,8 @@ This project uses face recognition with the `face-api.js` library to identify fa
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/varreltantio/face-recognition-javascript-webcam.git
-   cd face-recognition-project
+   git clone https://github.com/varreltantio/face-recognition-faceapi.git
+   cd face-recognition-faceapi
 
 2. **Install dependencies:**
 
